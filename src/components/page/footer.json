@@ -1,0 +1,14 @@
+{
+  "collectionName": "components_page_footers",
+  "info": {
+    "displayName": "footer",
+    "icon": "arrows-alt-h"
+  },
+  "options": {},
+  "attributes": {
+    "description": {
+      "type": "richtext",
+      "required": true
+    }
+  }
+}

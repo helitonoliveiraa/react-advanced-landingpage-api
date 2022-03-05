@@ -1,0 +1,22 @@
+{
+  "collectionName": "components_page_section_teches",
+  "info": {
+    "displayName": "sectionTech",
+    "icon": "mouse-pointer"
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string",
+      "required": true
+    },
+    "techIcons": {
+      "displayName": "techIcons",
+      "type": "component",
+      "repeatable": true,
+      "component": "page.tech-icons",
+      "min": 5,
+      "required": true
+    }
+  }
+}

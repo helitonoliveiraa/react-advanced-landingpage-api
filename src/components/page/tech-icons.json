@@ -1,0 +1,22 @@
+{
+  "collectionName": "components_page_tech_icons",
+  "info": {
+    "displayName": "techIcons",
+    "icon": "icons"
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string",
+      "required": true
+    },
+    "icon": {
+      "allowedTypes": [
+        "images"
+      ],
+      "type": "media",
+      "multiple": false,
+      "required": true
+    }
+  }
+}
